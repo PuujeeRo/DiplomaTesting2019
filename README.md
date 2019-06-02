@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 # DiplomaTesting2019 Laravel ашиглан систем хөгжүүлэлт
-# !! Migration ашиглаагүй тул өгөгдлийн сангийн Query ийг DB.sql Файл хадгалсан болно
+# !! Migration ашиглаагүй тул өгөгдлийн сангийн Query ийг dbdev.sql Файл хадгалсан болно
 2019 diploma testing
 Суулгах програмчлалын хэрэгчлүүд
 1 XAMPP эсвэл WAMP
